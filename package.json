@@ -1,6 +1,6 @@
 {
   "name": "importing-module",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "test to import module from npm",
   "main": "get-space-people.js",
   "scripts": {
