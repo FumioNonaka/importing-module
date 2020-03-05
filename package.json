@@ -1,0 +1,19 @@
+{
+  "name": "importing-module",
+  "version": "1.0.0",
+  "description": "test to import module from npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FumioNonaka/importing-module.git"
+  },
+  "author": "Fumio Nonaka",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FumioNonaka/importing-module/issues"
+  },
+  "homepage": "https://github.com/FumioNonaka/importing-module#readme"
+}
