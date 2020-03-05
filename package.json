@@ -1,6 +1,6 @@
 {
   "name": "importing-module",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "test to import module from npm",
   "main": "index.js",
   "scripts": {
@@ -15,5 +15,6 @@
   "bugs": {
     "url": "https://github.com/FumioNonaka/importing-module/issues"
   },
-  "homepage": "https://github.com/FumioNonaka/importing-module#readme"
+  "homepage": "https://github.com/FumioNonaka/importing-module#readme",
+  "type": "module"
 }

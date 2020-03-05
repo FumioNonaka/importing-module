@@ -1,4 +1,4 @@
-import getSpacePeople from './get-space-people';
+import getSpacePeople from './get-space-people.js';
 const url = 'http://api.open-notify.org/astros.json';
 exports.echo = () => {
 getSpacePeople(url)
