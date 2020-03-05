@@ -11,3 +11,4 @@ export default function getSpacePeople(url) {
 		request.send();	
 	});
 }
+console.log('export:', getSpacePeople);
